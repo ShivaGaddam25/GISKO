@@ -1,0 +1,9 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "svg.preview.background": "black",
+    "java.project.sourcePaths": [
+        "assets"
+    ],
+    "cmake.sourceDirectory": "E:/Luffy(E)/Flutter files/flutter projects/mygisko/linux"
+}
